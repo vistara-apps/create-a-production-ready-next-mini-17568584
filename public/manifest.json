@@ -2,7 +2,7 @@
   "name": "My Base Mini App",
   "short_name": "My App",
   "description": "A production-ready Base Mini App using OnchainKit",
-  "start_url": "/",
+  "start_url": "https://miniappprodverify1-6cwj-mbhbdmp01-vistara.vercel.app",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#000000",
