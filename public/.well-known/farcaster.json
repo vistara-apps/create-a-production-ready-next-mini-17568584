@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjM4NDUwLCJ0eXAiOiJqd3QiLCJhbGciOiJFZGRTQ0EifQ",
+    "payload": "eydkjR0eXAiOiJqc29uIiwgImFsZyI6IkVkRFNBIiwgImlzc1ZSI6Ij UFOXIwVU1HRGpKQSJ9.eyJzdWIiOiJmYXJjYXN0ZXI6Oi8vMzY2OC8vZWQ3NmM0NDU0VjY5IiwiaXNzIjoiZGFwcEF1dGhSYXBwIiwiaWF0IjoxNjg1MTE3OTM3LCJleHAiOjE3Nzg3MDE5NzEsImFwcElEIjoiNWRlNmEzNmfriYWUxYiIsInJlZ3':'JUmVhcyI6ImNqYXZhY3JpcHQiLCJ1c2VySWQiOiJlZDc2YzQ4MDRiYjY5ZWUwZDcowNTJmOWU5YTA5ZjQ5YuI3NmMxMjVkZGRhZSJ9.Zjdzam8yMjFkZTJjYWRkNzRjNTZjYTIzZDlmNmNkNTMyMGJkMWQ4ZjYyMzM3MzNlنوشNTA4MjU3YzU1ZDkyZjFkMw",
+    "signature": "NjRiZGJjYjNhZWFkMjVlZjE1NDdhMTQ5YWU2ODI4NGM2OThjZTFiMGZjMmRmNTU1NTQ2NGNhMDJmYmY3NDUyYw"
+  },
+  "frame": {
+    "version": "next",
+    "name": "My Base Mini App",
+    "iconUrl": "https://myapp.com/icon.png",
+    "homeUrl": "https://myapp.com",
+    "imageUrl": "https://myapp.com/image.png",
+    "buttonTitle": "Launch",
+    "splashImageUrl": "https://myapp.com/splash.png",
+    "splashBackgroundColor": "#ffffff",
+    "redirect": true
+  }
+}

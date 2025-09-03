@@ -1,0 +1,16 @@
+{
+  "name": "My Base Mini App",
+  "short_name": "My App",
+  "description": "A production-ready Base Mini App using OnchainKit",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
