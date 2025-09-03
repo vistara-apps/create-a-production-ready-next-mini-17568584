@@ -7,12 +7,12 @@
   "frame": {
     "version": "next",
     "name": "My Base Mini App",
-    "iconUrl": "https://myapp.com/icon.png",
+    "iconUrl": "https://miniappprodverify1-6cwj-mbhbdmp01-vistara.vercel.app/icon.png",
     "homeUrl": "https://miniappprodverify1-6cwj-mbhbdmp01-vistara.vercel.app",
-    "imageUrl": "https://myapp.com/image.png",
-    "buttonTitle": "Launch",
-    "splashImageUrl": "https://myapp.com/splash.png",
-    "splashBackgroundColor": "#ffffff",
+    "imageUrl": "https://miniappprodverify1-6cwj-mbhbdmp01-vistara.vercel.app/og-image.png",
+    "buttonTitle": "Launch App",
+    "splashImageUrl": "https://miniappprodverify1-6cwj-mbhbdmp01-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
     "redirect": true,
     "webhookUrl": "https://miniappprodverify1-6cwj-mbhbdmp01-vistara.vercel.app/api/webhook"
   }
