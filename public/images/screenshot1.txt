@@ -1,0 +1,2 @@
+This is a placeholder for the screenshot1.png file. In a real application, this would be a 1280x720 PNG image showing the app's home screen.
+

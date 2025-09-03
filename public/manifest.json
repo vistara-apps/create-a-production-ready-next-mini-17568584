@@ -1,16 +1,50 @@
 {
   "name": "My Base Mini App",
-  "short_name": "My App",
-  "description": "A production-ready Base Mini App using OnchainKit",
+  "short_name": "Base Mini",
+  "description": "A production-ready Next.js Base mini app using OnchainKit MiniKit",
   "start_url": "https://miniappprodverify1-6cwj-mbhbdmp01-vistara.vercel.app",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#000000",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "en-US",
+  "categories": ["finance", "blockchain", "web3"],
   "icons": [
     {
       "src": "/icon.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/screenshot1.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "platform": "wide",
+      "label": "Home Screen"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "Home",
+      "url": "/",
+      "description": "Go to the home page"
+    },
+    {
+      "name": "About",
+      "url": "/about",
+      "description": "Learn more about the app"
     }
   ]
 }

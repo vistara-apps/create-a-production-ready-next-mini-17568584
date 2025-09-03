@@ -1,0 +1,2 @@
+This is a placeholder for the splash.png file. In a real application, this would be a high-resolution PNG image for the splash screen.
+
